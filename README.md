@@ -2,7 +2,8 @@
 
 This project was prepared using Tailwind CSS and React.js with [Create React App](https://github.com/facebook/create-react-app).
 
-Here is a link to my Netflix-clone:https://netflix-clone-42c20.web.app
+Here is a link to my Netflix clone:https://netflix-clone-42c20.web.app
+On noticing a deceptive site ahead, please go ahead in the details box and click on the "visit the unsafe site" option appearing on the screen.
 
 ## Available Scripts
 
